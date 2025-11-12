@@ -1,2 +1,3 @@
 # Clicker
 Clicker
+Założenia 
